@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildHistory>
+  <Product type="Server" name="FWJ_3.2" spec-version="3.2.1" impl-time="20201028">
+    <Library name="BISTel.PeakPerformance.AMQTester.jar"                        spec-version="3.2.1"  impl-version="3.1.10"  impl-time="2016.12.28" />
+    <Library name="BISTel.PeakPerformance.ClassLoader.jar"                      spec-version="3.2.1"  impl-version="3.1.17"  impl-time="2018.11.05" />
+    <Library name="BISTel.PeakPerformance.Connectivity.AMQ.AMQConnectivity.jar" spec-version="3.2.1"  impl-version="3.1.13"  impl-time="2020.03.24" />
+    <Library name="BISTel.PeakPerformance.CSS.jar"                              spec-version="3.1.22" impl-version="4.0.1"   impl-time="2009.12.24" />
+    <Library name="BISTel.PeakPerformance.CSSConnectivity.jar"                  spec-version="3.2.1"  impl-version="3.0.0.3" impl-time="2014.11.18" />
+    <Library name="BISTel.PeakPerformance.CSSDaemon.jar"                        spec-version="3.1.22" impl-version="4.0.0.0" impl-time="2009.12.11" />
+    <Library name="BISTel.PeakPerformance.CSSTester.jar"                        spec-version="3.2.1"  impl-version="3.0.0.1" impl-time="2014.11.18" />
+    <Library name="BISTel.PeakPerformance.DAS2.jar"                             spec-version="1.2.1"  impl-version="1.2.1"   impl-time="2020.10.14" />
+    <Library name="BISTel.PeakPerformance.DAS2.Oracle11g.jar"                   spec-version="1.2.1"  impl-version="1.1.12"  impl-time="2019.06.20" />
+    <Library name="BISTel.PeakPerformance.Data.jar"                             spec-version="3.2.1"  impl-version="3.0.0.1" impl-time="2014.11.18" />
+    <Library name="BISTel.PeakPerformance.DSC.jar"                              spec-version="3.1.22" impl-version="1.0.2"   impl-time="2020.03.24" />
+    <Library name="BISTel.PeakPerformance.Framework.API.jar"                    spec-version="3.2.1"  impl-version="3.1.17"  impl-time="2018.11.01" />
+    <Library name="BISTel.PeakPerformance.Framework.jar"                        spec-version="3.2.1"  impl-version="3.2.0"   impl-time="2020.09.11" />
+    <Library name="BISTel.PeakPerformance.Sample.TickLog.jar"                   spec-version="3.2.1"  impl-version="2.1.0.0" impl-time="2014.11.18" />
+    <Library name="BISTel.PeakPerformance.Service.jar"                          spec-version="3.2.1"  impl-version="3.1.10"  impl-time="2016.12.28" />
+    <Library name="BISTel.PeakPerformance.STA.jar"                              spec-version="3.2.1"  impl-version="3.2.0"   impl-time="2020.09.11" />
+    <Library name="BISTel.PeakPerformance.Supervisor.jar"                       spec-version="3.2.1"  impl-version="3.1.10"  impl-time="2016.12.28" />
+    <Library name="BISTel.PeakPerformance.SUT.jar"                              spec-version="3.2.1"  impl-version="1.0.0.4" impl-time="2012.03.12" />
+    <Library name="BISTel.PeakPerformance.SystemConnectivity.jar"               spec-version="3.2.1"  impl-version="3.1.13"  impl-time="2018.03.26" />
+    <Library name="BISTel.PeakPerformance.Utility.jar"                          spec-version="3.2.1"  impl-version="3.2.0"   impl-time="2020.07.03" />
+    <Library name="BISTel.PeakPerformance.Utility.LogManager.jar"               spec-version="3.2.1"  impl-version="3.1.0.0" impl-time="2014.11.18" />
+    <Library name="BISTel.WorkflowEngine.jar"                                   spec-version="3.2.1"  impl-version="3.1.25"  impl-time="2020.05.22" />
+  </Product>
+</BuildHistory>
